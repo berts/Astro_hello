@@ -49,9 +49,9 @@ export const NavigationLinks = [
 
 export const PAGE_SIZE = 6
 
-export const GITHUB_EDIT_URL = `https://github.com/hellotham/hello-astro`
+//export const GITHUB_EDIT_URL = `https://github.com/hellotham/hello-astro`
 
-export const COMMUNITY_INVITE_URL = `https://astro.build/chat`
+//export const COMMUNITY_INVITE_URL = `https://astro.build/chat`
 
 export type Sidebar = Record<string, { text: string; link: string }[]>
 
