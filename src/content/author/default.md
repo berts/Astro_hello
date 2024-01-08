@@ -1,6 +1,6 @@
 ---
-title: 'Hello Astro'
+title: 'Ruiz Lizondo'
 image: ../../assets/astro/astro-icon-dark.png
-contact: 'info@hellotham.com'
-description: 'Astronaut'
+contact: 'oficina@ruizlizondo.com'
+description: 'GAF Ruiz Lizondo SL'
 ---

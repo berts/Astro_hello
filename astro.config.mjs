@@ -21,7 +21,7 @@ export default defineConfig({
       noExternal: ['swiper', 'leaflet']
     }
   },
-  site: 'https://hellotham.github.io',
+  site: 'https://astro-hello-dzg.pages.dev',
   base: '',
   integrations: [tailwind(), sitemap(), mdx(), alpinejs(), robotsTxt(), markdoc()],
   markdown: {
@@ -36,4 +36,8 @@ export default defineConfig({
     },
   },
   scopedStyleStrategy: "where",
+  i18n: {
+    defaultLocale: "es",
+    locales: ["es"],
+  }
 });
